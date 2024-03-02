@@ -5,6 +5,6 @@ int main()
     printf("Enter 2 numbers");
     scanf("%f%f", &a, &b);
     c = a/b;
-    printf("\nThe value is : %f", c);
+    printf("\nThe value is: %f", c);
     return 0;
 }
